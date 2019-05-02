@@ -1,0 +1,14 @@
+{
+    "name": "test",
+    "version": "0.1.0",
+    "license": "UNLICENSED",
+    "author": "Frederik Krautwald <fkrautwald@gmail.com>",
+    "main": "index.js",
+    "scripts": {
+        "test": "typed-test"
+    },
+    "devDependencies": {
+        "@typed/test": "^9.2.0",
+        "typescript": "^3.4.5"
+    }
+}
